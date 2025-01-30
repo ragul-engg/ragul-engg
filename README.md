@@ -1,5 +1,3 @@
-<img align="right" height="200" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b7611begqh9b0dwdpii8js74o8uq083i0za4xa7sjdwmb&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
 ###
 
 <h1 align="left">Hey there 👋</h1>
