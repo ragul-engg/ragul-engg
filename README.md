@@ -113,7 +113,3 @@ I am Ragul, crafting solutions @sahajsoft
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ragul-engg/ragul-engg/output/snake.svg" alt="Snake animation" />
-
-###
